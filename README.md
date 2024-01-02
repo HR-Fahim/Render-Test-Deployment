@@ -8,4 +8,4 @@ This service is built using Node.js and Express. It is designed to provide RESTf
 
 ## Testing
 
-Currently, there are no tests specified and its a Sub-repository.
+Currently, there are no tests specified and its a sub-repository.
